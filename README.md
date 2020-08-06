@@ -1,6 +1,6 @@
 # Build
 
-Python 3.6+ required
+Python 3.8+ required
 
 `pip install -r requirements.txt`
 
