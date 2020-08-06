@@ -13,7 +13,9 @@ API_KEY
 Optional env settings:
 
 REFRESH_PERIOD (10 by default)
+
 HTTP_HOST (127.0.0.1 by default)
+
 HTTP_PORT (8080 by default)
 
 `export API_KEY=YOUR_API_KEY`
